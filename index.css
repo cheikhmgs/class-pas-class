@@ -1,0 +1,30 @@
+.conteneur{
+	width: 460px;
+	height: 500px;
+	border: solid;
+	
+	margin-top: 100px;
+	margin-left: 400px;
+	display: flex;
+    flex-wrap: wrap;
+}
+.a{
+	width: 50px;
+	height: 50px;
+	border: solid;
+	margin: 15px;
+	
+
+}
+#b{
+	
+	border-radius: 100%;
+}
+#c{
+  
+    -ms-transform: rotate(45deg);
+    -moz-transform: rotate(45deg); 
+    -webkit-transform: rotate(45deg); 
+    -o-transform: rotate(45deg); 
+    
+}
